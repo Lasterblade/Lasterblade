@@ -1,4 +1,4 @@
-## Hi there, I'm Thiago - aka [Lasterblade][website]
+## Hi there, I'm Thiago - [Lasterblade][website]
 
 [![Website](https://img.shields.io/website?label=webtcs.com.br&style=for-the-badge&url=https%3A%2F%2Fwebtcs.com.br)](https://webtcs.com.br)
 [![Twitter Follow](https://img.shields.io/twitter/follow/webtcs?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/webtcs)
