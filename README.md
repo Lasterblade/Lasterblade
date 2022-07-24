@@ -1,16 +1,16 @@
-## Hi there, I'm Thiago - [Lasterblade][website]
+## Olá , Eu Sou Thiago - [Lasterblade][website]
 
 [![Website](https://img.shields.io/website?label=webtcs.com.br&style=for-the-badge&url=https%3A%2F%2Fwebtcs.com.br)](https://webtcs.com.br)
 [![Twitter Follow](https://img.shields.io/twitter/follow/webtcs?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/webtcs)
 
 
-- 🔭 I just developing my first I.A: [J.A.R.V.I.S][Developing]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to learn
+- 👨‍💻 Estou desenvolvendo uma I.A: [PROJECTA][Developing]!
+- 📚 Estou Ultimamente aprendendo sobre G.I.S 🌐
+- 🦫 Estou procurando colaborar e criar conteudo
+- 🗺️ Meta 2022: Contribuir mais com projetos Open Source
+- ⚡ Fato engraçado: Gosto de desafios
 
-### Connect with me:
+### Entre em contato:
 
 [<img align="left" alt="WebTCS.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="WebTCS | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -18,7 +18,7 @@
 
 <br />
 
-### Languages and Tools:
+### Linguagens e Ferramentas:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][whats]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][whats]
