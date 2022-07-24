@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/webtcs?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/webtcs)
 
 
-- 👨‍💻 Estou desenvolvendo uma I.A: [PROJECTA][Developing]!
+- 👨‍💻 Estou desenvolvendo uma I.A: [PROJECT A][Developing]!
 - 📚 Estou Ultimamente aprendendo sobre G.I.S 🌐
 - 🦫 Estou procurando colaborar e criar conteudo
 - 🗺️ Meta 2022: Contribuir mais com projetos Open Source
