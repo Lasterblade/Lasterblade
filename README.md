@@ -7,7 +7,7 @@
 - 👨‍💻 Estou desenvolvendo uma I.A: [PROJECT A][Developing]!
 - 📚 Estou Ultimamente aprendendo sobre G.I.S 🌐
 - 🦫 Estou procurando colaborar e criar conteudo
-- 🗺️ Meta 2022: Contribuir mais com projetos Open Source
+- 🗺️ Meta: Contribuir mais com projetos Open Source
 - ⚡ Fato engraçado: Gosto de desafios
 
 ### Entre em contato:
