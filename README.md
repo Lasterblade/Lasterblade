@@ -1,49 +1,62 @@
-## Olá , Eu Sou Thiago - [Lasterblade][website]
+## 👋 Olá, eu sou Thiago Cavalcanti — também conhecido como Lasterblade
 
 [![Website](https://img.shields.io/website?label=webtcs.com.br&style=for-the-badge&url=https%3A%2F%2Fwebtcs.com.br)](https://webtcs.com.br)
-[![Twitter Follow](https://img.shields.io/twitter/follow/webtcs?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/webtcs)
+[![Twitter Follow](https://img.shields.io/twitter/follow/webtcs?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/lasterblade)
 
+### 💼 Sobre mim
 
-- 👨‍💻 Estou desenvolvendo uma I.A: [PROJECT A][Developing]!
-- 📚 Estou Ultimamente aprendendo sobre G.I.S 🌐
-- 🦫 Estou procurando colaborar e criar conteudo
-- 🗺️ Meta: Contribuir mais com projetos Open Source
-- ⚡ Fato engraçado: Gosto de desafios
+- 🔭 Atualmente atuando como **Digital Developer Lead** no time do SBT pela **Noûs**  
+- 🧠 Desenvolvendo uma IA baseada em LLM: **[PROJECT A]** *(em progresso)*  
+- 🗺️ Estudando e aplicando soluções com foco em **GIS (Geographic Information Systems)**  
+- ⚙️ Entusiasta de Open Source, escalabilidade e engenharia de software robusta  
+- 💬 Sempre aberto para trocar ideias, contribuir e criar soluções com propósito  
+- ⚡ Curiosidade: Adoro enfrentar problemas complexos, especialmente os que desafiam os limites da stack
 
-### Entre em contato:
+---
 
-[<img align="left" alt="WebTCS.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="WebTCS | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="WebTCS | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### 📫 Vamos conversar?
 
-<br />
-
-### Linguagens e Ferramentas:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][whats]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][whats]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][whats]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][whats]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][whats]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][whats]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][whats]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][whats]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][whats]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][whats]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][whats]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][whats]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][whats]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][whats]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][whats]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][whats]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://webtcs.com.br)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/lasterblade)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/thiago-cavalcanti-3b090375/)
 
 <br />
-<br />
 
+---
 
+### 🛠️ Tecnologias & Ferramentas
 
-[website]: https://webtcs.com.br
-[twitter]: https://twitter.com/lasterblade
-[linkedin]: https://www.linkedin.com/in/thiago-cavalcanti-3b090375/
-[whats]: https://www.linkedin.com/in/thiago-cavalcanti-3b090375/
+#### Frontend:
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?logo=nuxt.js&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat)
+
+#### Backend & Data:
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=flat)
+
+#### DevOps & Tools:
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Terminal](https://img.shields.io/badge/-Terminal-000000?logo=windows-terminal&logoColor=white&style=flat)
+
+---
+
+### 📌 Objetivos atuais
+
+- Finalizar o desenvolvimento do meu projeto de IA com **LLMs**  
+- Aprofundar meus conhecimentos em **GIS aplicados à análise de dados e visualização geoespacial**  
+- Contribuir com a comunidade através de projetos **open source e conteúdo técnico**
+
+---
+
+### 🚀 “Construindo com propósito, liderando com visão e aprendendo todos os dias.”
 
